@@ -1,5 +1,5 @@
-# ERCA2023 tutorial
+# ERCA2024 tutorial
 
-Welcome to this tutorial on environmental data analysis with Python. This notebook was created by Rémy Lapere for the 2023 European Research Course on Atmospheres.
+Welcome to this tutorial on environmental data analysis with Python. This notebook was created by Rémy Lapere for the 2024 European Research Course on Atmospheres.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rlapere/ERCA2023_tutorial_v2/main?labpath=ERCA_intro_python.ipynb)
+[![Binder]()
